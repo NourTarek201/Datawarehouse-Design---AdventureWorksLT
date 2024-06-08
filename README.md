@@ -1,5 +1,5 @@
 # Datawarehouse-Design---AdventureWorksLT
-## This is a Contribution of Completing DataWarehouse Course Project at Faculty of Computers & AI at Cairo University
+## This is a Contribution to Complete DataWarehouse Course Project at Faculty of Computers & AI at Cairo University
 
 The data warehouse will model key business processes from the AdventureWorks LT 2022 schema, including Sales Data, Order Information, Customer Data, and Shipping. These processes are essential for performing segmentation, customer analytics, clustering, and more, inspired by retail analytics. This approach supports Sales Simulation training and comprehensive analysis.
 
